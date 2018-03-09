@@ -1,2 +1,2 @@
 # coupon
-something about coupon information
+something about coupon
